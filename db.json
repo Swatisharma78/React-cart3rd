@@ -1,0 +1,184 @@
+{
+  "womenshirts": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kqco5u80/shirt/g/m/u/xxl-market-2023-kinjo-original-imag4dt92vcmh64u.jpeg?q=50",
+      "name": "women shirt",
+      "price": "999",
+      "category": "shirt",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/jvfk58w0/shirt/h/j/f/xl-7207499-roadster-original-imafgcfmbb9whwqa.jpeg?q=50",
+      "name": "women shirt",
+      "price": "699",
+      "category": "shirt",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/800/960/l1whaq80/shirt/u/s/a/xl-womens-casual-long-sleeves-poly-crepe-dark-firozi-shirts-for-original-imagdcyhgyuzhznd.jpeg?q=50",
+      "name": "women shirt",
+      "price": "799",
+      "category": "shirt",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/800/960/krjjde80/shirt/a/h/x/m-mx207-maoxin-original-imag5b7vpucqarcm.jpeg?q=50",
+      "name": "women shirt",
+      "price": "799",
+      "category": "shirt",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kqco5u80/shirt/g/m/u/xxl-market-2023-kinjo-original-imag4dt92vcmh64u.jpeg?q=50",
+      "name": "women shirt",
+      "price": "999",
+      "category": "shirt",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/jvfk58w0/shirt/h/j/f/xl-7207499-roadster-original-imafgcfmbb9whwqa.jpeg?q=50",
+      "name": "women shirt",
+      "price": "699",
+      "category": "shirt",
+      "id": 6
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kqco5u80/shirt/g/m/u/xxl-market-2023-kinjo-original-imag4dt92vcmh64u.jpeg?q=50",
+      "name": "women shirt",
+      "price": "209",
+      "category": "shirt",
+      "id": 7
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/k0bbb0w0/shirt/g/q/u/l-iwf-dark-blue-indian-westesn-fashion-original-imafk5anhhzzzuaj.jpeg?q=50",
+      "name": "women shirt",
+      "price": "399",
+      "category": "shirt",
+      "id": 8
+    }
+  ],
+  "mencargo": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kflftzk0/cargo/z/g/m/34-bplaindori-blackl1-plus91-original-imafwyxh35yjgjqk.jpeg?q=50",
+      "name": "men cargo",
+      "price": "200",
+      "category": "men cargo",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/jepzrm80/cargo/s/e/m/32-p92-doricargoblack-plus91-original-imaf3ckgpy5fcw5q.jpeg?q=50",
+      "name": "men cargo",
+      "price": "910",
+      "category": "men cargo",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kh9gbrk0-0/cargo/v/l/c/36-unique-black-cargos-36-weshopping-original-imafxbgedz4rbtwf.jpeg?q=50",
+      "name": "men cargo",
+      "price": "918",
+      "category": "men cargo",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kflftzk0/cargo/h/v/e/32-dplaindori2l1-plus91-original-imafwyxhvyf3zwxs.jpeg?q=50",
+      "name": "men cargo",
+      "price": "958",
+      "category": "men cargo",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kjom6q80-0/cargo/j/v/u/42-d1green-hymen-legions-original-imafz748qe3wnnwu.jpeg?q=50",
+      "name": "men cargo",
+      "price": "268",
+      "category": "men cargo",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kz065jk0/cargo/m/l/k/3xl-bwmrdbl-cargop9-blive-original-imagb43ftzwjjufh.jpeg?q=50",
+      "name": "men cargo",
+      "price": "468",
+      "category": "men cargo",
+      "id": 6
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kzn17680/shopsy-cargo/q/f/a/xxl-fc2052-fastcolors-men-original-imagbhuthz7gt32e.jpeg?q=50",
+      "name": "men cargo",
+      "price": "268",
+      "category": "men cargo",
+      "id": 7
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/l0tweq80/cargo/l/b/i/xxl-fc2062-fastcolors-original-imagcj55wpsqe8sw.jpeg?q=50",
+      "name": "men cargo",
+      "price": "968",
+      "category": "men cargo",
+      "id": 8
+    }
+  ],
+  "manshirts": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kwzap3k0/shirt/r/q/j/l-lstr-acqua-p-v-creations-original-imag9jggj6naa4cu.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "10",
+      "category": "shirt",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kwzap3k0/shirt/e/m/b/xxl-lstr-orange-p-v-creations-original-imag9jggyxhzseyb.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "369",
+      "category": "shirt",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kqgyhe80/shirt/f/1/i/l-men-slim-fit-solid-mandarin-collar-casual-shirt-juhil-bazar-original-imag4h5njqfzcbwz.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "968",
+      "category": "shirt",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kqgyhe80/shirt/r/s/r/m-men-slim-fit-solid-mandarin-collar-casual-shirt-juhil-bazar-original-imag4h5nscnvznt4.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "567",
+      "category": "shirt",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/ktaeqvk0/shirt/4/h/3/m-men-slim-fit-solid-mandarin-collar-casual-shirt-lizzy-original-imag6z5zdjb6hjst.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "254",
+      "category": "shirt",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/l3t2fm80/shirt/p/l/b/l-103-f-blue-rock-original-imageun9fbzpeaar.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "358",
+      "category": "shirt",
+      "id": 6
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/kt8zb0w0/shirt/u/h/d/m-men-slim-fit-solid-mandarin-collar-casual-shirt-lizzy-original-imag6n4qwyhjyqn6.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "864",
+      "category": "shirt",
+      "id": 7
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/495/594/l3t2fm80/shirt/5/0/d/l-103-f-blue-rock-original-imageun9y6dw9wxh.jpeg?q=50",
+      "name": "Man-shirt",
+      "price": "864",
+      "category": "shirt",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "image": "https://ca.slack-edge.com/T02QFJUB5DF-U02RJL8KMLZ-8831c1f22191-512",
+      "name": "Sangam"
+    
+    }
+  
+  ]
+}
